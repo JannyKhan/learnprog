@@ -1,6 +1,6 @@
 # learnprog
 
-1.print_star.c
+1.h_pyramid.c
 
 Program to print half pyramid using = or any character:
 
